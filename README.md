@@ -14,7 +14,7 @@ Extra dataset address:
 https://www.kaggle.com/datasets/pourchot/ddsm-mammography-positive-case
 
 Training:
-Without extra dataset: rsna-convnextv2-training-m1-folds.ipynb
+Without extra dataset: rsna-convnextv2-training-m1-folds.ipynb; 
 With extra dataset: rsna-convnextv2-training-m1-extra-folds.ipynb
 
 Inference: 
